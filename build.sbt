@@ -2,7 +2,7 @@ name := "test-interface"
 
 organization := "org.scala-sbt"
 
-version := "1.0"
+version := "1.1-SNAPSHOT"
 
 description := "Uniform test interface to Scala/Java test frameworks (specs, ScalaCheck, ScalaTest, JUnit and other)"
 
